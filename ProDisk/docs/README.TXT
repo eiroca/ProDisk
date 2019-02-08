@@ -1,13 +1,13 @@
 ===============================================================================
                              PRODISK 1.0
-                      Prodos HD <-> MsDos File
+                      Prodos HD <-> Windows File
 
                            by Enrico Croce
 
                   Copyright (c) 1996 All Rights Reserved.
 ===============================================================================
 
-This program is under GPL. PLEASE READ LICENSE.TXT for the complete authorization
+This program is under GPL. PLEASE READ COPYING for the complete authorization
 notice.
 
 DONATIONS of any kind are accepted and mails are appreciated. Please, send bug 
@@ -27,7 +27,7 @@ Now the following commands are available:
  help                - show the available commands
  open HD_name[.hdv]  - open the Apple2-HD called HD_name.hdv
  close               - close the current Apple2-HD
- dir or car or ls    - show file(s) contained in the current directory
+ dir or cat or ls    - show file(s) contained in the current directory
  cd (or only DirName)- change the current directory
  import              - import a Ms-Dos file into ProDos one
  export              - esport a Prodos file into MS-Dos one
@@ -54,7 +54,7 @@ REQUIREMENTS
   Windows compatible OS
 
  For recompilation is required:
-  Delphi XE2
+  Delphi 10.3
   Working knowledge of Pascal
 
 ===============================================================================

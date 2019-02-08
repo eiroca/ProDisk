@@ -1,6 +1,6 @@
 ===============================================================================
                              PRODISK 1.0
-                      Prodos HD <-> MsDos File
+                      Prodos HD <-> Windows File
 
                            by Enrico Croce
 
@@ -8,7 +8,7 @@
 ===============================================================================
 
 Questo programma e' distribuito sotto licenza GPL. Attenzione, leggere il file 
-LICENCE.TXT per conoscere le condizioni di uso del programma. 
+COPYING per conoscere le condizioni di uso del programma. 
 
 Le DONAZIONI di ogni tipo (denaro, programmi, Manga, ...) sono sempre ben
 volute; anche la corrispondenza e' molto apprezzata soprattutto se si tratta 
@@ -58,7 +58,7 @@ REQUISITI
   Windows compatible OS
 
  For recompilation is required:
-  Delphi XE2
+  Delphi 10.3
   Working knowledge of Pascal
 
 ===============================================================================
