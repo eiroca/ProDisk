@@ -26,7 +26,8 @@ uses
   ProDos in 'lib\ProDos.pas',
   ProDosFS in 'lib\ProDosFS.pas',
   FMain in 'gui\FMain.pas' {MainForm},
-  FProDosDisk in 'gui\FProDosDisk.pas' {fmProDosDisk};
+  FProDosDisk in 'gui\FProDosDisk.pas' {fmProDosDisk},
+  FAboutGPL in 'external\FAboutGPL.pas' {fmAboutGPL};
 
 {$R *.RES}
 

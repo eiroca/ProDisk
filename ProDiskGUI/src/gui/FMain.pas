@@ -23,7 +23,7 @@ interface
 
 uses Windows, SysUtils, Classes, Graphics, Forms, Controls, Menus,
   StdCtrls, Dialogs, Buttons, Messages, ExtCtrls, ComCtrls, StdActns,
-  ActnList, ToolWin, ImgList, System.Actions;
+  ActnList, ToolWin, ImgList, System.Actions, System.ImageList;
 
 type
   TMainForm = class(TForm)
@@ -89,7 +89,7 @@ implementation
 {$R *.dfm}
 
 uses
-  eLibVCL, FProDosDisk;
+  FAboutGPL, FProDosDisk;
 
 procedure TMainForm.CreateMDIChild(const Name: string);
 var
